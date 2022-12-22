@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/CatClock/static/css/main.06c528b2.css",
+    "main.js": "/CatClock/static/js/main.e73b88de.js",
+    "static/js/787.16f14271.chunk.js": "/CatClock/static/js/787.16f14271.chunk.js",
+    "static/media/catClock.png": "/CatClock/static/media/catClock.1c508104991548fbd29d.png",
+    "static/media/catClockArm.png": "/CatClock/static/media/catClockArm.d126dfcfe33d20eb1793.png",
+    "static/media/logo.svg": "/CatClock/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CatClock/index.html",
+    "main.06c528b2.css.map": "/CatClock/static/css/main.06c528b2.css.map",
+    "main.e73b88de.js.map": "/CatClock/static/js/main.e73b88de.js.map",
+    "787.16f14271.chunk.js.map": "/CatClock/static/js/787.16f14271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06c528b2.css",
+    "static/js/main.e73b88de.js"
+  ]
+}
